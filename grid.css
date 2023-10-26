@@ -84,10 +84,9 @@ body {
 
 /* ITEM 
  * ------------------ */
-.item.ladan {
+.item {
     background: white;
 }
-
 .item {
     display: inline-block;
     width: 100%;
