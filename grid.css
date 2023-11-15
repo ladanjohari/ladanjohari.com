@@ -33,7 +33,7 @@
 body {
     font-family: sans-serif;
     margin: 10px;
-    background: #ddd;
+    background: #feff9c;
 }
 
 /* MASONRY GRID 
@@ -100,7 +100,7 @@ body {
 
     -webkit-transition: 1s ease all;
 
-    border: 2px solid black;
+    /* border: 2px solid black; */
     border-radius: 6px;
     overflow: hidden;
     /* to affect the inner elements with the radius */
